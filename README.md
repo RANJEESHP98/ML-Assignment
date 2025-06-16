@@ -95,6 +95,8 @@ d) IQR Method
 --------------------------------------------------------------------------------------------------------------------------
 # Assignment 5
 1) Performing EDA
+
+   
   a) Loading the dataset and drop the column species.
 
   b) Import libraies
